@@ -124,6 +124,7 @@ az vm create \
   --generate-ssh-keys \
   --size Standard_B1s
 ```
+```powershell
 ⚙️ Azure PowerShell – Criação de VM (Exemplo Windows)
 powershell
 Copiar
@@ -141,17 +142,20 @@ New-AzVm `
 ✅ Use SSH ao invés de senha em Linux
 ✅ Desligue as VMs quando não estiver utilizando
 ✅ Documente tudo para futuras consultas
+```
 
-🔗 Referências
-Microsoft Learn – Gerenciar máquinas virtuais do Azure
+## 🔗 Referências
 
-Azure Pricing Calculator
+- [Microsoft Learn – Gerenciar máquinas virtuais do Azure](https://learn.microsoft.com/pt-br/training/modules/manage-virtual-machines-azure/)
+- [Azure Pricing Calculator](https://azure.microsoft.com/pt-br/pricing/calculator/)
+- [Documentação Oficial do GitHub](https://docs.github.com/pt)
+- [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 
-Documentação Oficial do GitHub
+---
 
-GitHub Markdown Guide
+## 👨‍💻 Autor
 
-👨‍💻 Autor
-Eduardo
-LinkedIn | GitHub
+**Eduardo**  
+[LinkedIn](#) | [GitHub](#)
+
 
